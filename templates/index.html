@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GradeSupport - Submit Your Essay</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>GradeSupport: Self-Assessment Tool</h1>
+        <form method="POST">
+            <label for="essay">Paste your essay here:</label><br><br>
+            <textarea id="essay" name="essay" rows="10" cols="50" required></textarea><br><br>
+            <button type="submit">Submit Essay for Grading</button>
+        </form>
+    </div>
+</body>
+</html>

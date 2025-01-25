@@ -1,0 +1,59 @@
+### Title
+The title should accurately reflect both the subject of the essay and provide a hint about the thesis or point of view. It should engage the reader’s interest and set the stage for the body paragraphs. A thought-provoking or interesting conclusion should tie everything back together and extend the thesis further.
+
+**Excellent:** The title is engaging and reflective of the thesis, while the conclusion brings the essay full circle, enhancing the argument.  
+**Satisfactory:** The title is present, but the introduction or conclusion may have some confusion or roughness.  
+**Needs Improvement:** There is no title, and the introduction and/or conclusion may lack relevance to the body of the essay.
+
+### Thesis/Focus
+A strong argumentative thesis should be presented clearly in the first paragraph and remain the central focus throughout the essay.
+
+**Excellent:** The thesis is clear, argumentative, and is consistently focused upon throughout the paper.  
+**Satisfactory:** The thesis is clear but may not be consistently followed.  
+**Needs Improvement:** The thesis is implied, absent, or poorly connected to the rest of the paper.
+
+### Organization
+Effective organization requires one main idea per paragraph, smooth transitions, and clear topic sentences. The order of the essay, as set in the introduction, should be followed consistently.
+
+**Excellent:** The essay has clear and logical organization with effective transitions and topic sentences, and the structure follows the introduction’s order.  
+**Satisfactory:** Organization is mostly clear, with some transitions and topic sentences, but connections between paragraphs might be weak.  
+**Needs Improvement:** The organization is unclear, with missing topic sentences, rough transitions, and paragraphs that cover multiple ideas.
+
+### Development
+
+#### Support
+The paper should use concrete details, examples, evidence, and relevant sources to substantiate and explain the thesis.
+
+**Excellent:** Provides detailed, relevant evidence and references to support and explain the thesis thoroughly.  
+**Satisfactory:** Provides adequate support, but some areas may be underdeveloped or unclear in connecting evidence to ideas.  
+**Needs Improvement:** Lacks sufficient or relevant evidence, with little to no clear connection to the thesis.
+
+#### Analysis
+The analysis should explain how the evidence supports the thesis, discuss its significance, and explore its implications.
+
+**Excellent:** Thorough, thoughtful analysis of the connections between evidence and ideas, with explicit discussion of their relevance and significance.  
+**Satisfactory:** Adequate analysis, though some explanations may be incomplete or missing.  
+**Needs Improvement:** Lacks thorough analysis, offering only basic or general conclusions without explaining connections between ideas and evidence.
+
+### Mechanics
+
+#### Sentence Craft & Style
+The essay should demonstrate the effective use of language, including varied sentence structure, precise word choices, and an appropriate tone.
+
+**Excellent:** Strong use of language with varied sentence structures, precise word choices, and a tone appropriate for the assignment.  
+**Satisfactory:** Language use is adequate, but some sentences may be awkward, and word choice may lack precision. Tone is generally appropriate.  
+**Needs Improvement:** Language is vague or abstract, with improper word choices, choppy sentences, and inappropriate tone or style.
+
+#### Grammar and Spelling
+Spelling, punctuation, and grammatical errors should be minimal.
+
+**Excellent:** Almost free of grammatical, punctuation, or spelling errors (one or fewer per page).  
+**Satisfactory:** A few errors, but they do not significantly distract from the meaning (about 2-3 per page).  
+**Needs Improvement:** Frequent or extensive errors in grammar, punctuation, and spelling (more than 4 errors per page).
+
+#### MLA Mechanics
+Proper use of MLA format for in-text citations and Works Cited page is essential.
+
+**Excellent:** Correct in-text citations with signal phrases and parenthetical citations, along with a properly formatted Works Cited page with few or no errors.  
+**Satisfactory:** In-text citations are mostly correct, but there may be some issues with signal phrases or formatting. The Works Cited page has some errors.  
+**Needs Improvement:** Many in-text citations are missing or incorrect. The Works Cited page is incomplete or improperly formatted, often only listing URLs or significant errors.

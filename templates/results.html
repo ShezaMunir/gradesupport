@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Essay Grade</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <script src="https://cdn.jsdelivr.net/npm/showdown/dist/showdown.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Grading Results</h1>
+        <h2>Your Essay has been graded:</h2>
+        <div id="markdown-grade"></div>
+        <br><br>
+        <a href="/">Submit Another Essay</a>
+    </div>
+
+    <script>
+        // Convert the markdown to HTML using Showdown
+        const markdownText = `{{ grade }}`; // Server-side variable
+        const converter = new showdown.Converter();
+        const html = converter.makeHtml(markdownText);
+
+        // Display the converted HTML in the container
+        document.getElementById('markdown-grade').innerHTML = html;
+    </script>
+</body>
+</html>
