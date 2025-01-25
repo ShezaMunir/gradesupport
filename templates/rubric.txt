@@ -56,4 +56,4 @@ Proper use of MLA format for in-text citations and Works Cited page is essential
 
 **Excellent:** Correct in-text citations with signal phrases and parenthetical citations, along with a properly formatted Works Cited page with few or no errors.  
 **Satisfactory:** In-text citations are mostly correct, but there may be some issues with signal phrases or formatting. The Works Cited page has some errors.  
-**Needs Improvement:** Many in-text citations are missing or incorrect. The Works Cited page is incomplete or improperly formatted, often only listing URLs or significant errors.
+**Needs Improvement:** Many in-text citations are missing or incorrect. The Works Cited page is incomplete or improperly formatted, often only listing URLs or significant errors. 
